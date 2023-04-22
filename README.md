@@ -1,6 +1,6 @@
 # Overview
 
-This is a hello world application implementing python, Visual Studio Code and GitHub.
+This is a simple hello world application implementing python, Visual Studio Code and GitHub.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
