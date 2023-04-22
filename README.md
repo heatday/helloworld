@@ -2,7 +2,7 @@
 
 This is a simple hello world application implementing python, Visual Studio Code and GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=SrSVX-l5fFw)
 
 # Development Environment
 
